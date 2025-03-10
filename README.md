@@ -1,2 +1,2 @@
 # funky-terminal
-Just like the last project music not included so add your music
+Just like the last project, music is not included. So, add your own music.
