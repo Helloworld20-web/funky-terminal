@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "ULTRAFONT";
+    src: url(VCR_OSD_MONO_1.001.ttf);
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: "ULTRAFONT";
+    color: white;
+    font-size: 460%;
+    text-align: center;
+}
+
+h2 {
+    font-family: "ULTRAFONT";
+    color: white;
+}
+
+ul {
+    font-family: "ULTRAFONT";
+    color: white;
+}
+
+p {
+    font-family: "ULTRAFONT";
+    color: white;
+    font-size: 160%;
+}
+
+figcaption {
+    font-family: "ULTRAFONT";
+    color: white;
+}
+
+a {
+    font-family: "ULTRAFONT";
+    color: white;
+    font-size: 160%;
+}
